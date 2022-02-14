@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<img src="https://i.imgur.com/w0dUYmi.png">
+## About Me
+Hello, I am Stephen L., a Discord.js bot programmer based in the Philippines. I'm the chief developer for SpiritLed (Christian quotes), and a non-denominational Christian server, FaithChatt Forum! It is an honor to share my skills, though I still have more room for improvement while pursuing BS Computer Science inside my university. 
 <!--
 **StephenL13/StephenL13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
