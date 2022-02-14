@@ -9,6 +9,7 @@ Hello, I am Stephen L., currently 19 years old and a 1st year BS Computer Scienc
 
 ### 🌱 I’m currently learning...
 - MongoDB
+- Python
 - C# and .NET on my college course
 
 ### ⚡ Fun fact:
