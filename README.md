@@ -15,3 +15,10 @@ Hello, I am Stephen L., currently 19 years old and a 1st year BS Computer Scienc
 ### ⚡ Fun fact:
 - I'm a musician (keys) in a music ministry.
 - Jesus loves me, because the Bible tells me so!
+
+## FAQ
+**Q:** Do you accept bot commissions at the moment?
+<br>**A:** No. I cannot offer high-quality server hosting as I'm based on a low budget.
+
+**Q:** Where can I contact you for support?
+<br>**A:** Feel free to check my [Discord server](https://discord.gg/ghN4SzhJTB).
