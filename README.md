@@ -17,7 +17,7 @@ Hello, I am Stephen L., currently 19 years old and a 1st year BS Computer Scienc
 - Jesus loves me, because the Bible tells me so!
 
 ## FAQ
-**Q:** Do you accept bot commissions at the moment?
+**Q:** Do you accept bot commissions?
 <br>**A:** No. I cannot offer high-quality server hosting as I'm based on a low budget.
 
 **Q:** Where can I contact you for support?
