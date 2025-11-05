@@ -9,5 +9,5 @@ I am the head developer of the proprietary Discord bots for FaithChatt, includin
 - Soon: TypeScript, React.js, and Kotlin
 
 ### ⚡ Fun fact:
-- I'm a musician (keys) in a music ministry.
+- I'm a musician (keys) in a music ministry (took a break)
 - Jesus loves me, because the Bible tells me so.
